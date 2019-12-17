@@ -1145,7 +1145,6 @@ section.lazy-placeholder:after {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
-  background: none;
 }
 .cid-rGtUi5Rzo2 .navbar.opened {
   transition: all .3s;
